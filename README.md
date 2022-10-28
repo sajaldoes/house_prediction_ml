@@ -9,13 +9,15 @@ This app predicts the **Boston House Price**!
 - Shows Feature importance based on SHAP values
 
 <p>
+	<center><b>WebApp Overview</b></center>
     <img src="webapp.png" alt>
-    <center><b>WebApp Overview</b></center>
+    
 </p>
 
 <p>
+	<center><b>Feature Importance</b></center>
     <img src="feat_imp.png" alt>
-    <center><b>Feature Importance</b></center>
+    
 </p>
 
 
